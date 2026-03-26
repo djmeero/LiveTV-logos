@@ -27,6 +27,8 @@ https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
 https://cronos.mangora1.cfd/canad2/usergendx92c4rnd.m3u8
 #EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="PRO Cinema" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/PRO%20Cinema.png" group-title="Romania"
 https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
+#EXTINF:-1 tvg-id="ProArena.ro" tvg-name="PRO Arena" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/pro-arena-ro.png" group-title="Romania"
+https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
 #EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/National%20TV.png" group-title="Romania"
 https://galandriel1.thobias11.cfd/national/usergendxl4s0rnd.m3u8
 #EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Romania%20TV.png" group-title="Romania"
@@ -81,3 +83,51 @@ https://iron1.jarvisx1.cfd/cbrealy/usergenrxlj5c0q.m3u8
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 #EXTINF:-1 tvg-id="AXNSpin.hu@Greece" tvg-name="AXN Spin" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/AXN%20Spin.png" group-title="Romania"
 https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
+#EXTINF:-1 tvg-id="PrimaSport1" tvg-name="Prima Sport1" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/prima-sport-1-ro.png" group-title="Romania"
+https://rohan116.ultronx1.cfd/puk1/usergenrx0cir27aq.m3u8
+#EXTINF:-1 tvg-id="PrimaSport2" tvg-name="PrimaSport2" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/prima-sport-2-ro.png" group-title="Romania"
+https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
+#EXTINF:-1 tvg-id="PrimaSport3" tvg-name="PrimaSport3" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/prima-sport-3-ro.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
+#EXTINF:-1 tvg-id="PrimaSport4" tvg-name="PrimaSport4" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/prima-sport-4-ro.png" group-title="Romania"
+https://galandriel1.thobias11.cfd/puk4/usergendx42x9qrnd.m3u8
+#EXTINF:-1 tvg-id="PrimaSport5" tvg-name="PrimaSport5" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/prima-sport-5-ro.png" group-title="Romania"
+https://galandriel1.thobias11.cfd/puk5/usergen0grnd3y8.m3u8
+#EXTINF:-1 tvg-id="EuroSport1" tvg-name="EuroSport1" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/eurosport-1-ro.png" group-title="Romania"
+https://kudos111.terranovax1.cfd/er01/usergendx0slkgx7dqrnd.m3u8
+#EXTINF:-1 tvg-id="TV1000" tvg-name="TV1000" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/tv1000-ro.png" group-title="Romania"
+https://flash1.bogulus1.cfd/tivi10/usergenrxs4f7zc.m3u8
+#EXTINF:-1 tvg-id="FilmBoxPremium" tvg-name="FilmBoxPremium" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/FilmBox.png" group-title="Romania"
+https://onyx1.mofta1.cfd/fboyp/usergendl2kx0ta67js9c.m3u8
+#EXTINF:-1 tvg-id="FilmBoxExtra" tvg-name="FilmBox Extra" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/FilmBox.png" group-title="Romania"
+https://onyx1.mofta1.cfd/fboye/usergendlg8sl1ks0tv7sr8n.m3u8
+#EXTINF:-1 tvg-id="FilmCafe" tvg-name="Film Cafe" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/film-cafe-ro.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+#EXTINF:-1 tvg-id="Happy" tvg-name="Happy" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/happy-channel-ro.png" group-title="Romania"
+https://saruman1.tharen1.cfd/hap/usergenrnd2gd3ogS7bkd.m3u8
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/disney-channel.png" group-title="Romania"
+https://galandriel1.thobias11.cfd/dysnee/usergendx0k2rnd.m3u8
+#EXTINF:-1 tvg-id="DisneyJr" tvg-name="Disney Jr" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/disney-junior.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/disjr/usergendxvoq4rnd.m3u8
+#EXTINF:-1 tvg-id="CartoonNetwork" tvg-name="Cartoon Network" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/cartoon-network.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/cartun/usergenrx2xfzol0q.m3u8
+#EXTINF:-1 tvg-id="Cartoonito" tvg-name="Cartoonito" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/cartoonito.png" group-title="Romania"
+https://flash1.bogulus1.cfd/bomer/usergenrx2c86jey.m3u8
+#EXTINF:-1 tvg-id="Minimax" tvg-name="Minimax" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/minimax.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+#EXTINF:-1 tvg-id="JimJam" tvg-name="JimJam" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/jimjam.png" group-title="Romania"
+https://saruman1.tharen1.cfd/jimy/usergenq3n0lz7kr.m3u8
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/nickelodeon-ro.png" group-title="Romania"
+https://onyx1.mofta1.cfd/nike/usergenm24qrnd.m3u8
+#EXTINF:-1 tvg-id="NickJr" tvg-name="Nick Jr" tvg-logo="https://www.clipartmax.com/png/middle/140-1406639_seussville-nick-jr-nick-jr-2006-logo.png" group-title="Romania"
+https://galandriel1.thobias11.cfd/nicjr/usergendxl2c8nd.m3u8
+#EXTINF:-1 tvg-id="NickToons" tvg-name="Nick Toons" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Nicktoons_2023_Outlined_Logo.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/niktuun/usergendxt7r9CxGrnd.m3u8
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/amc-ro.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+#EXTINF:-1 tvg-id="PrimaNews" tvg-name="Prima News" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/" group-title="Romania"
+https://thor1.syndula1.cfd/prnews/usergenx2klq7rnd.m3u8
+#EXTINF:-1 tvg-id="EuroNews" tvg-name="Euro News" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/euronews-romania-ro.png" group-title="Romania"
+https://thor1.syndula1.cfd/ernews/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 tvg-id="Skyshowtime" tvg-name="SkyShowTime" tvg-logo="https://images.ctfassets.net/lqy9luz7fyfj/W2MCKNm4w41MFsg5WVEiu/ef7f1f07e99b7e2392d84e766ba56a45/skyshowtime-1.png" group-title="Romania"
+https://thor1.syndula1.cfd/schi1/usergendxn430rnd.m3u8
