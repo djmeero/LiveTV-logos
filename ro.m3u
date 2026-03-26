@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-name="Antena 1" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Antena%201.png" group-title="Romania"
+https://ceres1.visionman1.cfd/ah1/usergenx304Jtlrnd.m3u8
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-name="Pro TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Pro%20TV.png" group-title="Romania"
+https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8
+#EXTINF:-1 tvg-id="PrimaTV.ro" tvg-name="Prima TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Prima%20TV.png" group-title="Romania"
+https://hokrus116.zokares1.cfd/prima/usergenrnd8qxl92r.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Realitatea%20TV.png" group-title="Romania"
+https://flash1.bogulus1.cfd/realy/usergenrx0j3qt.m3u8
+#EXTINF:-1 tvg-id="antena-3-cnn" tvg-name="Antena 3" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Antena%203.png" group-title="Romania"
+https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
+#EXTINF:-1 tvg-id="B1.ro" tvg-name="B1 TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/B1%20TV.png" group-title="Romania"
+https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-name="TVR 1" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TVR%201.png" group-title="Romania"
+https://kuk1.modprimus1.cfd/t001/usergend4sdkx9q2rnd.m3u8
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-name="TVR 2" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TVR%202.png" group-title="Romania"
+https://thor1.syndula1.cfd/tevere2/usergendxl6d4vnd.m3u8
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-name="TVR 3" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TVR%203.png" group-title="Romania"
+https://thor1.syndula1.cfd/tevere3/usergenx4klq9qrnd.m3u8
+#EXTINF:-1 tvg-id="TVRInternational.ro" tvg-name="TVR International" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TVR%20International.png" group-title="Romania"
+https://thor1.syndula1.cfd/teverei/usergenx6vkj8aqrnd.m3u8
+#EXTINF:-1 tvg-id="TVRSport.ro" tvg-name="TVR Sport" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TVR%20Sport.png" group-title="Romania"
+https://atlantida1.aquax.cfd/tivisp/usergendl3f9xgfm1s.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Kanal%20D.png" group-title="Romania"
+https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-name="PRO Cinema" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/PRO%20Cinema.png" group-title="Romania"
+https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
+#EXTINF:-1 tvg-id="NationalTV.ro" tvg-name="National TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/National%20TV.png" group-title="Romania"
+https://galandriel1.thobias.cfd/national/usergendxl4s0rnd.m3u8
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-name="Romania TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Romania%20TV.png" group-title="Romania"
+https://cronos.mangora1.cfd/rtv/usergendx473dx9qrnd.m3u8
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-name="Antena Stars" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Antena%20Stars.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
+#EXTINF:-1 tvg-id="Diva.ro" tvg-name="Diva" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Diva.png" group-title="Romania"
+https://thor1.syndula1.cfd/diva/usergenm48Qhxrnd.m3u8
+#EXTINF:-1 tvg-id="filmbox" tvg-name="FilmBox" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/FilmBox.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-name="Acasa" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Acasa.png" group-title="Romania"
+https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
+#EXTINF:-1 tvg-id="AcasaGold.ro" tvg-name="Acasa Gold" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Acasa%20Gold.png" group-title="Romania"
+https://thor1.syndula1.cfd/gold/usergendxt638rnd.m3u8
+#EXTINF:-1 tvg-id="HBO.ro" tvg-name="HBO" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/HBO.png" group-title="Romania"
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-name="HBO 2" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/HBO%202.png" group-title="Romania"
+https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-name="HBO 3" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/HBO%203.png" group-title="Romania"
+https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
+#EXTINF:-1 tvg-id="TarafTV.ro" tvg-name="TarafTV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TarafTV.png" group-title="Romania"
+https://flash1.bogulus1.cfd/tarafy/usergenrxgi1cla6qt.m3u8
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-name="ZUTV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/ZUTV.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8
+#EXTINF:-1 tvg-id="EtnoTV.ro" tvg-name="Etno TV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Etno%20TV.png" group-title="Romania"
+https://arwen1.panaka1.cfd/etno/usergenrnd7ke5lgt.m3u8
+#EXTINF:-1 tvg-id="FavoritTV.ro" tvg-name="Favorit" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Favorit.png" group-title="Romania"
+https://arwen1.panaka1.cfd/favorit/usergenrn9jn4gba.m3u8
+#EXTINF:-1 tvg-id="UTV.ro" tvg-name="UTV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/UTV.png" group-title="Romania"
+https://cronos.mangora1.cfd/utivi/usergenck9astrnd.m3u8
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-name="KissTV" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/KissTV.png" group-title="Romania"
+https://arwen1.panaka1.cfd/kys/usergenrndgs6h1vys2n4l.m3u8
+#EXTINF:-1 tvg-id="CNNInternational.us@MENA" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/CNN.png" group-title="Romania"
+https://thor1.syndula1.cfd/cienen/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-name="H!T Music Channel" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/H!T%20Music%20Channel.png" group-title="Romania"
+https://cronos.mangora1.cfd/hitivi/usergendhh62jfcs5rnd.m3u8
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-name="Discovery Channel" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Discovery%20Channel.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+#EXTINF:-1 tvg-id="TLC.ro" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/TLC.png" group-title="Romania"
+https://atlantida1.aquax1.cfd/telece/usergendc8sxt317rnd.m3u8
+#EXTINF:-1 tvg-id="TheFishingHuntingChannel.hu" tvg-name="Fishy Hunting" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/Fishy%20Hunting.png" group-title="Romania"
+https://arwen1.panaka1.cfd/fishy/usergenrpz6q.m3u8
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEurope.us" tvg-name="ID Investigation Discovery" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/ID%20Investigation%20Discovery.png" group-title="Romania"
+https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
+#EXTINF:-1 tvg-id="CBSRealityEMEA.uk" tvg-name="CBS Reality" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/CBS%20Reality.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/cbrealy/usergenrxlj5c0q.m3u8
+#EXTINF:-1 tvg-id="BBCEarth.uk@Romania" tvg-name="BBC Earth" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/BBC%20Earth.png" group-title="Romania"
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+#EXTINF:-1 tvg-id="AXNSpin.hu@Greece" tvg-name="AXN Spin" tvg-logo="https://raw.githubusercontent.com/djmeero/LiveTV-logos/main/AXN%20Spin.png" group-title="Romania"
+https://cronos.mangora1.cfd/axy/usergend3h5jkc9rnd.m3u8
